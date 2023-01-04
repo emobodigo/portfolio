@@ -1,0 +1,1 @@
+export const links = [{ link: "#service", name: "Services" }, { link: "#experience", name: "Experience" }, { link: "#work", name: "Work" }, { link: "#resume", name: "Resume" }];
